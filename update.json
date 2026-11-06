@@ -1,6 +1,6 @@
 {
- "versionCode": 12,
- "versionName": "1.11",
+ "versionCode": 13,
+ "versionName": "1.12",
  "apkUrl": "https://dostapp.pages.dev/dost-latest.apk",
- "notes": "v12 BRAIN DIAGNOSIS + MIC HOLD: (1) Bara Dimagh ab KHAMOSH fail nahi hota — Settings mein 'Bara Dimagh ki halat' block: key lagi hai ya nahi, switch ON/OFF, aur aakhri rabte ka result. 'Bara Dimagh test karein' button asal rabta test karke jawab bol kar batata hai. Command fail ho to Dost wajah bol kar batata hai (maslan 'key ghalat lagti hai'), console aur Activity log mein bhi likha jata hai. (2) Key 'save hai lekin parh nahi sakta' wali kharabi pakri gayi — configured ka matlab ab hai: key asal mein chal sakti hai. (3) Naya switch 'Mic ki awaaz band rakho' (Settings): ON karne par jab tak Dost sun raha ho, mic ki beep bilkul band — lekin itni dair doosri apps ki media awaaz bhi band rahegi; Dost ki apni awaaz phir bhi chalegi."
+ "notes": "v13 INSTALL FIX: Pichli updates Google Play Protect par ruk rahi theen ('App blocked') — wajah wo ek permission thi jo khud-update ke install ke liye v10 mein aayi thi. v13 mein wo permission KHATAM kar di gayi hai; ab Dost apni download ki hui update system installer ko ek private raaste se deta hai — koi install permission nahi. Baqi sab v12 wala hi hai: Bara Dimagh ki halat + test button Settings mein, rabta toote to wajah bol kar, aur 'Mic ki awaaz band rakho' switch."
 }
