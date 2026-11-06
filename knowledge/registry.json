@@ -1,0 +1,64 @@
+{
+ "packs": [
+  {
+   "key": "facebook",
+   "version": 1,
+   "url": "kb_facebook.json",
+   "sha256": "e5faf1c05586505ab7f634633ed463851250d8de45481efd5460faa3a028144d"
+  },
+  {
+   "key": "instagram",
+   "version": 1,
+   "url": "kb_instagram.json",
+   "sha256": "72ca72133917d952902eb3a2d27951dc50b9bbb3050936f722e48e622a06b76d"
+  },
+  {
+   "key": "maps",
+   "version": 1,
+   "url": "kb_maps.json",
+   "sha256": "862d40ee62a1f56d006f81cd68600922dd3075b4ac843fb4115aade239e5afa1"
+  },
+  {
+   "key": "photos",
+   "version": 1,
+   "url": "kb_photos.json",
+   "sha256": "4214a384c3d133bbc5b1ed65afac38eec56ed5b5fec4cd07edab25d25406d698"
+  },
+  {
+   "key": "playstore",
+   "version": 1,
+   "url": "kb_playstore.json",
+   "sha256": "aa5709adcdea54a1c1f3f2275947ce21da0c61111e8e37a567b6d91c519ab2ef"
+  },
+  {
+   "key": "pubg",
+   "version": 1,
+   "url": "kb_pubg.json",
+   "sha256": "58bbdc0a67aa4b4423fa0893711fa54556ffb63af1c4b3f0d1b7b60dd617492d"
+  },
+  {
+   "key": "settings",
+   "version": 1,
+   "url": "kb_settings.json",
+   "sha256": "73d9cf2551252250deacac85a5eeea09abdf1bc43d685ea949e28c4bd584e25b"
+  },
+  {
+   "key": "tiktok",
+   "version": 1,
+   "url": "kb_tiktok.json",
+   "sha256": "7b34b879a277e7183da683e51c4eec504343ce950692da2739bc7dc885a5d38c"
+  },
+  {
+   "key": "whatsapp",
+   "version": 1,
+   "url": "kb_whatsapp.json",
+   "sha256": "49bae76d230f91b883b320e55cf57a083a0505b1dff4446085533037cb1d3c4f"
+  },
+  {
+   "key": "youtube",
+   "version": 1,
+   "url": "kb_youtube.json",
+   "sha256": "644020498792cf0226c0d3d3266576bead0f67aa77b495a68170e54a5b0f5033"
+  }
+ ]
+}
