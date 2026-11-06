@@ -1,1 +1,6 @@
-{"versionCode":11,"versionName":"1.10","apkUrl":"https://dostapp.pages.dev/dost-latest.apk","notes":"v11 HOTFIX: (1) Mic ki on/off beep (ton ton) ab sunai nahi degi — har sunne ke start par cue wali awaaz band, sirf Dost ke bolne par khulti hai. (2) Version ab nazar ayega: Settings aur Permissions (Health) screen par sab se upar 'Aap ka version: 1.10' aur update ki halat likhi hogi. (3) App dobara kholne par update dobara check hoga (aadhe ghante mein ek dafa) — pichli dafa update card is liye nahi aya tha ke purana check din bhar ke liye band ho chuka tha."}
+{
+ "versionCode": 12,
+ "versionName": "1.11",
+ "apkUrl": "https://dostapp.pages.dev/dost-latest.apk",
+ "notes": "v12 BRAIN DIAGNOSIS + MIC HOLD: (1) Bara Dimagh ab KHAMOSH fail nahi hota — Settings mein 'Bara Dimagh ki halat' block: key lagi hai ya nahi, switch ON/OFF, aur aakhri rabte ka result. 'Bara Dimagh test karein' button asal rabta test karke jawab bol kar batata hai. Command fail ho to Dost wajah bol kar batata hai (maslan 'key ghalat lagti hai'), console aur Activity log mein bhi likha jata hai. (2) Key 'save hai lekin parh nahi sakta' wali kharabi pakri gayi — configured ka matlab ab hai: key asal mein chal sakti hai. (3) Naya switch 'Mic ki awaaz band rakho' (Settings): ON karne par jab tak Dost sun raha ho, mic ki beep bilkul band — lekin itni dair doosri apps ki media awaaz bhi band rahegi; Dost ki apni awaaz phir bhi chalegi."
+}
