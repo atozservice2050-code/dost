@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "5.0",
+  "versionCode": 6,
+  "versionName": "5.1",
   "apkUrl": "https://dostapp.pages.dev/dost-latest.apk",
-  "notes": "Dost 5.0 — Batch 3 (Basic System): AI brain OFF by default (Settings se on ho sakta hai). Ab Dost phone chalata hai: sawalon ke jawab web search se, call karne se pehle number parh kar sunata hai, WhatsApp par message likh kar ruk jata hai — send sirf aap ke confirm par, group ke purane messages parh kar batata hai, reminder Clock app ya Dost mein lagata hai, naye kaam ke liye app dhoond kar deta hai, aur doosri apps (jaise Muse) ko bol kar kaam karwata hai. Nayi Access screen mein har ijazat ON/OFF nazar aati hai."
+  "notes": "Dost 5.1 — Language fix: ab Dost wohi language bolta aur likhta hai jis mein aap baat karein — Roman Urdu mein sawal, to jawab bhi Urdu mein; English mein sawal, to jawab English mein. Hindi bilkul khatam: na screen par, na awaz mein, na search ke jawabat mein. 'Business WhatsApp open karo' ab sahi app kholta hai (search mein gum nahi hota), aur 'WhatsApp updates do / kisi se message aaya' par chat list parh kar batata hai kis ke kitne naye message hain. Agar naam samajh na aaye to pehle poochhta hai, ghalat chat nahi dhoondta."
 }
