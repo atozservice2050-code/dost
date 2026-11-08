@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "4.0",
+  "versionCode": 5,
+  "versionName": "5.0",
   "apkUrl": "https://dostapp.pages.dev/dost-latest.apk",
-  "notes": "Dost 4.0 — Batch 2"
+  "notes": "Dost 5.0 — Batch 3 (Basic System): AI brain OFF by default (Settings se on ho sakta hai). Ab Dost phone chalata hai: sawalon ke jawab web search se, call karne se pehle number parh kar sunata hai, WhatsApp par message likh kar ruk jata hai — send sirf aap ke confirm par, group ke purane messages parh kar batata hai, reminder Clock app ya Dost mein lagata hai, naye kaam ke liye app dhoond kar deta hai, aur doosri apps (jaise Muse) ko bol kar kaam karwata hai. Nayi Access screen mein har ijazat ON/OFF nazar aati hai."
 }
