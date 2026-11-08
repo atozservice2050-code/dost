@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "5.1",
+  "versionCode": 7,
+  "versionName": "6.0",
   "apkUrl": "https://dostapp.pages.dev/dost-latest.apk",
-  "notes": "Dost 5.1 — Language fix: ab Dost wohi language bolta aur likhta hai jis mein aap baat karein — Roman Urdu mein sawal, to jawab bhi Urdu mein; English mein sawal, to jawab English mein. Hindi bilkul khatam: na screen par, na awaz mein, na search ke jawabat mein. 'Business WhatsApp open karo' ab sahi app kholta hai (search mein gum nahi hota), aur 'WhatsApp updates do / kisi se message aaya' par chat list parh kar batata hai kis ke kitne naye message hain. Agar naam samajh na aaye to pehle poochhta hai, ghalat chat nahi dhoondta."
+  "notes": "Dost 6.0 — Completion update: (1) My Phone screen — Dost ab khud phone ko parh kar batata hai: model, Android, kaunsi apps hain, awaz ki pehchan aur bolne ki awazein kaunsi hain, aur har access ON hai ya OFF. Yehi maloomat app khud istemal karti hai (app kholne aur App Finder mein). (2) Instruction library — WhatsApp, Chrome, Clock, Contacts, Play Store, Muse, Facebook, Instagram, YouTube, Gmail, Maps ke kaam ke step-by-step tareeqe app ke andar, Seekha hua screen se dekhe ja sakte hain. (3) Seekha hua — jo rasta kaam kar jaye Dost yaad rakh leta hai aur agli bar pehle wohi azmata hai; koi kaam atkay to Dost tareeqa Google se dhoond kar guide save kar leta hai. Sab kuch sirf isi phone par. (4) Guided setup — pehli bar har access aik aik karke, wajah ke sath, sahi settings screen par le ja kar lagta hai. (5) Dimagh (AI) — Settings mein ab apna AI lagayein: Gemini, OpenAI, Anthropic ya koi bhi custom AI apni API key se; Test connection button se foran pata chal jata hai key chal rahi hai ya nahi. Brain fail ho to Dost jawab Google search se deta hai, khamosh nahi rehta."
 }
