@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "2.0",
   "apkUrl": "https://dostapp.pages.dev/dost-latest.apk",
-  "notes": "Dost clone v1"
+  "notes": "Dost 2.0 — the 50% build: hang/speed fixes, date+location+device context, live search grounding, Markdown-free speech, mic fixes, in-app auto-update, controller foundation (accessibility)"
 }
