@@ -4,6 +4,6 @@
   "apkUrl": "https://github.com/atozservice2050-code/dost/releases/download/native-v0.10.47/dost-v0.10.47-repair-debug.apk",
   "sha256": "78e615f54301a043cf0bbe2a45e943107102639e8ed0739614353e74e13c56ea",
   "sizeBytes": 70126486,
-  "publishedAt": "2026-11-21T21:55:00Z",
+  "publishedAt": "2026-11-20T21:55:00Z",
   "notes": "Milestone F: Final Product — performance measurement, security/privacy/signing audit (0 findings), UI/avatar polish, device compatibility audit, release preparation; host-verified 2296/2296 (baseline 2194 + 102 new); prefill/KV cause still unproven; device round pending"
 }
