@@ -1,1 +1,9 @@
-{"apkUrl":"https://github.com/atozservice2050-code/dost/releases/download/native-v0.10.43/dost-v0.10.43-repair-debug.apk","notes":"Milestone B: AI Intelligence — model interpretation, streaming, prompt quality, generation lifecycle; host-verified 1741/1741 (baseline 1610 + 131 new); R1 OPEN; device round pending","publishedAt":"2026-11-19T04:15:00Z","sha256":"a80a278c3899e89b76baa048eedd0b5b3de5bc4cf40bf4b60b8efbde8f0eb718","sizeBytes":69552987,"versionCode":59,"versionName":"0.10.43"}
+{
+  "versionName": "0.10.47",
+  "versionCode": 63,
+  "apkUrl": "https://github.com/atozservice2050-code/dost/releases/download/native-v0.10.47/dost-v0.10.47-repair-debug.apk",
+  "sha256": "78e615f54301a043cf0bbe2a45e943107102639e8ed0739614353e74e13c56ea",
+  "sizeBytes": 70126486,
+  "publishedAt": "2026-11-21T21:55:00Z",
+  "notes": "Milestone F: Final Product — performance measurement, security/privacy/signing audit (0 findings), UI/avatar polish, device compatibility audit, release preparation; host-verified 2296/2296 (baseline 2194 + 102 new); prefill/KV cause still unproven; device round pending"
+}
