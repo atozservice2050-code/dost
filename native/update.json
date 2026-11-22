@@ -1,9 +1,9 @@
 {
-  "versionName": "0.10.47",
-  "versionCode": 63,
-  "apkUrl": "https://github.com/atozservice2050-code/dost/releases/download/native-v0.10.47/dost-v0.10.47-repair-debug.apk",
-  "sha256": "78e615f54301a043cf0bbe2a45e943107102639e8ed0739614353e74e13c56ea",
-  "sizeBytes": 70126486,
-  "publishedAt": "2026-11-20T21:55:00Z",
-  "notes": "Milestone F: Final Product — performance measurement, security/privacy/signing audit (0 findings), UI/avatar polish, device compatibility audit, release preparation; host-verified 2296/2296 (baseline 2194 + 102 new); prefill/KV cause still unproven; device round pending"
+  "versionName": "0.10.48",
+  "versionCode": 64,
+  "apkUrl": "https://github.com/atozservice2050-code/dost/releases/download/native-v0.10.48/dost-v0.10.48-repair-debug.apk",
+  "sha256": "f3d66b1cc7a9f01145b721a38709064e0e3001895a8436c974142733c42ed153",
+  "sizeBytes": 70159250,
+  "publishedAt": "2026-11-22T05:02:00Z",
+  "notes": "Fixes-only build — WhatsApp Business resolves by package com.whatsapp.w4b (WA Business label), Urdu-script open command, referral answers from verified facts, reply-language lock, honest offline Urdu message; host-verified 2345/2345 (baseline 2296 + 49 new), golden set 40/40; lint did not run (environmental); device round pending"
 }
